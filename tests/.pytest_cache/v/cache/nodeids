@@ -1,0 +1,13 @@
+[
+  "test_config.py::test_production_config",
+  "test_config.py::test_default_config",
+  "test_config.py::test_dev_config",
+  "test_main.py::TestGraphTool::()::test_load_graph_from_file",
+  "test_main.py::TestGraphTool::()::test_load_graph_from_stream",
+  "test_main.py::TestApi::()::test_get_graph",
+  "test_main.py::TestApi::()::test_post_graph_empty",
+  "test_main.py::TestApi::()::test_post_graph_malformed_data",
+  "test_main.py::TestApi::()::test_post_graph_correct",
+  "test_marsh.py::test",
+  "test_utils.py::test_clean_dict"
+]
